@@ -10,9 +10,6 @@ To deploy this project run
 
 
 ```bash
-   git clone   https://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@github.com/Gabbar-V2-Server/gabbar-v2_batch_code.git
-```
-```bash
   sudo apt install nodejs
   sudo apt install npm
   npm install nodemon
