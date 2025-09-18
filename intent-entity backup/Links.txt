@@ -1,0 +1,13 @@
+Banking entity model
+https://drive.google.com/file/d/1IOPQfs_vcorHOmHme83-GUhG9q2kmP5F/view?usp=sharing
+
+
+Banking intent model
+https://drive.google.com/file/d/1LClF1UAq9hFt5vN7Db5HzN4boog_snER/view?usp=sharing
+
+
+investment entity model
+https://drive.google.com/file/d/1fsOQsMUUOHlLNd-34BRl9JrFuyYThRc-/view?usp=sharing
+
+investment intent model
+https://drive.google.com/file/d/1aRHxkk8EuYorB9U-JCT82xTYzjLTpfqA/view?usp=sharing
