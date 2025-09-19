@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+langchain
+pycryptodome
+flask_cors
+gunicorn
+accelerate
