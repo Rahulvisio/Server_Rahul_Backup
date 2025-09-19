@@ -8,7 +8,7 @@ Use instruction below to run stt model inference
 
 ```bash
 conda install python==3.10.12
-wget s3://gabbar-model/model.zip
+aws s3 cp s3://gabbar-model/model.zip .
 unzip model.zip
 pip install -r requirements.txt
 
